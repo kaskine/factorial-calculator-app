@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Factorial Calculator</string>
+    <string name="user_hint">Enter a factorial.</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="output_prefix">! =\u0020</string>
+    <string name="decimal_format">#</string>
+    <string name="input_error_text">Enter a number greater than 0.</string>
+
+    <string name="iInputValueStoreID">iInputValue</string>
+    <string name="dOutputValueStoreID">dOutputValue</string>
+    <string name="bOutputCalculatedStoreID">bOutputCalculated</string>
+
+</resources>
